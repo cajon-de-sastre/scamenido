@@ -1,0 +1,4 @@
+* scamenido
+A text editor that looks like GNU Emacs
+
+NOTE: initial commits only works on x11
